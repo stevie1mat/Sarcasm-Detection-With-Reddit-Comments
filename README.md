@@ -38,5 +38,5 @@ Full detailed step by step tutorial is available on my dev.to
 
 
 ## 🚀 About Me
-Senior WordPress/Shopify & App Developer @247 Labs, Toronto
+(Senior WordPress/Shopify & App Developer @247 Labs, Toronto)[(https://dev.to/stevenmathew/sarcasm-detection-ai-model-trained-with-reddit-comments-55kf)]
 
