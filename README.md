@@ -32,5 +32,11 @@ Full detailed step by step tutorial is available on my dev.to
 
 ![Sarcastic or Not](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a8segcd9rs1qs7je18uj.png)
 
+## Testing with top 5 comments from a random reddit post
+
+![Sarcastic or Not](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8nrm4f692w0sfs5bk5bl.png)
+
+
 ## 🚀 About Me
 Senior WordPress/Shopify & App Developer @247 Labs, Toronto
+
