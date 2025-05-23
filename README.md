@@ -38,5 +38,5 @@ Full detailed step by step tutorial is available on my dev.to
 
 
 ## 🚀 About Me
-[Senior WordPress/Shopify & App Developer @247 Labs, Toronto](https://stevenmathew.dev)
+Full Stack Dev | <a href="https://stevenmathew.dev">Steven Mathew</a>
 
